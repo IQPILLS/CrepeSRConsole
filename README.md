@@ -2,7 +2,7 @@
 Example: https://discord.gg/vY8FvZpmqK
 
 ## Setup
-* Install discord, paramiko, pymongo libs
+* Install discord 2.0 (pip install git+https://github.com/Rapptz/discord.py), paramiko, pymongo libs
 * Launch MongoDB so uid will be linked to your discord id so your server player dont need to use target command
 * Change login.py variables: server (with your vds ip), username (with your username), password (with password for user) and distoken (with discord bot token)
 
