@@ -1,5 +1,5 @@
 # CrepeSRConsole
-Example: https://discord.gg/vY8FvZpmqK
+Support: https://discord.gg/vY8FvZpmqK
 
 ## Setup
 * Install discord 2.0 (pip install git+https://github.com/Rapptz/discord.py), paramiko, pymongo libs
